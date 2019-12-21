@@ -1,4 +1,14 @@
-
+---
+id: 4
+title: WMI
+date: 2013-07-07T01:59:36+00:00
+author: Jeff Scripter
+layout: post
+guid: http://www.JPScripter.com/?p=4
+permalink: /WMI/
+categories:
+  - Objects
+---
 WMI
 
  
