@@ -1,3 +1,10 @@
+---
+layout: home
+title: An Exporation of IT
+icon: fa-home
+order: 1
+---
+
 # The Scripter
 
 ## Posts
