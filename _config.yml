@@ -30,7 +30,7 @@ twitter_username: JeffTheScripter
 github_username:  JPScripter
 
 # Build settings
-theme: jekyll-theme-clean-blog
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
