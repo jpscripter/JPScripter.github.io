@@ -1,0 +1,18 @@
+head{
+    background-color: gray;
+    background: hotpink;
+}
+
+body {
+    background-color: powderblue;
+    border: 1px solid powderblue;
+  }
+h1 {
+color: blue;
+}
+h1 {
+    color: green;
+    }
+p {
+color: red;
+}
