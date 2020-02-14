@@ -1,0 +1,61 @@
+I")<p>Com Objects</p>
+
+<p>Why</p>
+
+<p>This was a way to more easily allow software to interact with each other. This solved the problem of allowing ‘simple’ interface of a piece of software in a standard way.</p>
+
+<p>History</p>
+
+<p>The com interface was introduced in 1993 as an application binary interface. This was later updated to allow cross machine interfaces with DCOM. Currently, this is mostly been replaced\wrapped with the CLR standards in .net and DCOM has transitioned more to web services like soap and rest. However, There are still several applications that rely on COM.</p>
+
+<p>What is it?</p>
+
+<p>A way for programmers to interact with other applications without searching the system for dlls and reading endless documentation.</p>
+
+<p>Where is it?</p>
+
+<p>Com objects are binary interfaces that are registered in HKR (User or machine)</p>
+
+<p>DLLs register as a com name and version
+Com object Interface name
+Hkey_Classes_root&lt;Interface&gt;\CLSID
+CLSID is located
+Hkey_Classes_Root\CLSID&lt;CLSID&gt;
+{D2EOFE7F-D23E-48E1-BCO-6FA8CC346474} 
+n procServer32 
+PrcgID 
+Programmable 
+TypeLib 
+Version 
+VersicnIndeoendentPrcaID
+This will locate the binary that can manage the interface.</p>
+
+<p>Code - list all com objects</p>
+
+<p>new-psdrive -Name hkr -PSProvider Registry -Root hkey_classes_root -Scope script</p>
+
+<p>$ComObject = Get-ChildItem -path hkr:\clsid*\VersionIndependentProgID</p>
+
+<p>Foreach ($ComObjectInterface in $ComObject)</p>
+
+<p>{</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ComObjectInterfaceName - $ComObjectInterface.GetValue($Null)
+
+New-object -ComObject $ComObjectInterfaceName
+</code></pre></div></div>
+
+<p>}</p>
+
+<p>DCOM</p>
+
+<p>Registered as apps in
+ HKEY_CLASSES_ROOT\AppID</p>
+
+<p>DCOM can be controlled in the comexp.msc snapin</p>
+
+<p>Practical</p>
+
+<p>There are several applications that can have useful com interfaces like RSA soft token, MSI installer, windows updates and Office.
+If you have to troubleshoot errors, The application event log can capture some of the more severe errors.</p>
+:ET

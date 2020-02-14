@@ -1,0 +1,61 @@
+I"%<p>WMI</p>
+
+<p>Why -</p>
+
+<p>Makes a modern Object based APIs for the windows OS. This is one of the reasons windows is an API based OS vs Linux being file based.</p>
+
+<p>Built on the Common information Model (CIM), and wbem standards used by other OS but Microsoft added it’s own spin on it with wmi. This groups information in related Object classes and leverages providers to manage those objects.</p>
+
+<p>CIM - Data model and Data layout</p>
+
+<p>WBEM - standards for interacting with CIM</p>
+
+<p>WMI - Microsoft implementation of both</p>
+
+<p>History</p>
+
+<p>Started in Win NT SP4  as an web-based enterprise management (WBEM) tool. It was a download that</p>
+
+<p>What is WMI?</p>
+
+<p>Database</p>
+
+<p>C:\windows\System32\wbem</p>
+
+<p>Namespace</p>
+
+<p>Part of the CIM standards for organizing like Classes</p>
+
+<p>Permissions are managed in CompMGMT.msc but don’t!</p>
+
+<p>MOF - Managed Object Format</p>
+
+<p>These are your classes definitions and link the provider</p>
+
+<p>MFL - Message format language - XML used for interpreting binary data structures</p>
+
+<p>Classes -  This is the implementation of the MOF file and</p>
+
+<p>Instances</p>
+
+<p>Provider</p>
+
+<p>Where is WMI</p>
+
+<p>Registry</p>
+
+<p>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Wbem
+Database
+MOF Files</p>
+
+<p>Practical</p>
+
+<p>WMI powershell cmdlets take some shortcuts and are based on RPC
+CIM powershell cmdlets stick to the CIM standards more closely, offer intel-sense
+WMI explorer for identifying objects
+SCCM inventory
+DON’T RECOMPILE ALL!
+_Uninstall mofs exist
+AUTORECOVER Key is better</p>
+
+:ET
