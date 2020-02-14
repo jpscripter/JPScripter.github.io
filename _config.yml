@@ -1,5 +1,12 @@
-title: An adventure in IT
-description: Just me playing around with all of the things in IT that might interest me.
+title: An exploration of IT
+email: JPScripter@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  A blog of the things in Technology that interest me.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: JeffTheScripter
+github_username:  JPScripter
+
 show_downloads: false
-google_analytics:
+google_analytics: UA-140023239-1
 theme: jekyll-theme-slate
