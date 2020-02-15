@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 #Jeff Scripter
-![Me in the Apls](/assets/images/Alps.jpg | width=100)
+![Me in the Apls](/assets/images/Alps.jpg)
 
 ## IT Work
 * 15 years in IT
@@ -13,7 +13,7 @@ permalink: /about/
 
 
 ## Hobbies
-![Me and Mars](/assets/images/WithMars.jpg =250x250)
+![Me and Mars](/assets/images/WithMars.jpg)
 
 * Home Renovations
 * Travel
