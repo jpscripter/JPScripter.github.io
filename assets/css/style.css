@@ -5,9 +5,10 @@ background:#bbbbbb;
 font-size:16px;
 font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 line-height:1.5;
--webkit-font-smoothing:antialiased}
+-webkit-font-smoothing:antialiased;
+letter-spacing:-1px}
 
-letter-spacing:-1px}h1{font-size:36px;
+h1{font-size:36px;
 font-weight:700}
 
 body
@@ -72,7 +73,7 @@ border-bottom:1px solid #111}
 
 #aboutme{
     width: 200px;
-    height: 200px;
+    height: auto;
     border: 1px solid #c3c3c3;
     display: flex;
     flex-wrap: wrap;
