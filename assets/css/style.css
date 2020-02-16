@@ -65,11 +65,14 @@ font-weight:300;
 background:none;
 text-shadow:#111 0px 0px 10px} 
 
-#main_content_wrap{background:#f2f2f2;
-border-top:1px solid #111;
-border-bottom:1px solid #111} 
 
-#main_content{padding-top:40px} 
+
+#main_content{
+    background:#f2f2f2;
+    height: min-content ;
+    border: 1px solid #c3c3c3;
+    padding-top:40px
+} 
 
 #aboutme{
     width: 200px;
