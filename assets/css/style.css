@@ -31,7 +31,7 @@ h1{font-size:36px;
 font-weight:700}
 h2{padding-bottom:10px;
 font-size:32px;
-background:#007bffa1
+background:#f2f2f2
 }
 
 
@@ -70,3 +70,11 @@ border-bottom:1px solid #111}
 
 #main_content{padding-top:40px} 
 
+#aboutme{
+    width: 200px;
+    height: 200px;
+    border: 1px solid #c3c3c3;
+    display: flex;
+    flex-wrap: wrap;
+    float:right
+}
