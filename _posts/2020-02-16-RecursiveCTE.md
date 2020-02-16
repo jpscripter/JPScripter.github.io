@@ -1,6 +1,6 @@
 ---
 id: 1
-title: Recursive CTE: 
+title: Recursive CTE 
 date: 2020-02-16T01:59:36+00:00
 author: Jeff Scripter
 layout: post
