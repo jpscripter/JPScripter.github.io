@@ -75,7 +75,7 @@ border-bottom:1px solid #111}
     width: 200px;
     height: auto;
     background:#f2f2f2;
-    border: #111 ; 
+    border: 1px solid #c3c3c3;
     display: flex;
     flex-wrap: wrap;
     float:right
