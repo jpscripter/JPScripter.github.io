@@ -19,16 +19,17 @@
     </div>
     
     <!-- MAIN CONTENT -->
-    <div id="Page" class="site-content">
+    <div id="page" class="site-content">
 
       <div id="main_content" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
         {{ content }}
       </div>
-      <div id="sidebar" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar">
-        {% include about.html %}
-      </div>
-    </div>
 
+    </div>
+    
+    <div id="sidebar" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar">
+      {% include about.html %}
+    </div>
 
     {% include footer.html %}
 
