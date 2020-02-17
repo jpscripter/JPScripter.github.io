@@ -83,5 +83,7 @@ text-shadow:#111 0px 0px 10px}
     border: 1px solid #c3c3c3;
     display: flex;
     flex-wrap: wrap;
-    float:right
+    float:auto
+
 }
+
