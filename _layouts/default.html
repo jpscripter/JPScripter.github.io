@@ -18,16 +18,15 @@
         </header>
     </div>
     
-    {% include about.html %}
-
     <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
+    <div id="Page" class="site-content">
 
-      <section id="main_content" class="inner">
-
+      <div id="main_content" class="content-area grid-parent mobile-grid-100 grid-75 tablet-grid-75">
         {{ content }}
-
-      </section>
+      </div>
+      <div id="main_content" class="widget-area grid-25 tablet-grid-25 grid-parent sidebar">
+        {% include about.html %}
+      </div>
     </div>
 
 
