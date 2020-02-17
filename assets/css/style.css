@@ -65,7 +65,8 @@ text-shadow:#111 0px 0px 10px}
     background:#f2f2f2;
     height: min-content ;
     border: 1px solid #c3c3c3;
-    padding-top:40px
+    padding-top:40px;
+    float:right
 } 
 
 #main_content img {
@@ -73,13 +74,11 @@ text-shadow:#111 0px 0px 10px}
 }
 
 #aboutme{
-    width: 80;
-    height: 100;
     background:#f2f2f2;
     border: 1px solid #c3c3c3;
-    display: flex;
+    display: table;
     flex-wrap: wrap;
-    float:relative;
+    float:left;
     margin:5px
 }
 
