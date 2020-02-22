@@ -63,6 +63,7 @@ text-shadow:#111 0px 0px 10px}
 
 #page{
   width: 80%;
+  height:;
   margin: auto;
   margin-bottom: 120px;
   overflow:hidden;
@@ -71,7 +72,8 @@ text-shadow:#111 0px 0px 10px}
 
 #sidebar{
    width: 160px;
-   Float:right;
+
+   float:right;
    background:#f2f2f2;
    border: 1px solid #c3c3c3;
    margin-left:5px
