@@ -19,7 +19,7 @@ background:#212121;
 font-size:16px;
 font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 line-height:1.5;
--webkit-font-smoothing:antialiased
+-webkit-font-smoothing:antialiased;
 }
 
 h1,h2,h3,h4,h5,h6{margin:10px 0;
@@ -61,11 +61,25 @@ font-weight:300;
 background:none;
 text-shadow:#111 0px 0px 10px} 
 
+#page{
+  width: 80%;
+  height: 250px;
+  margin: auto;
+  padding: 10px;
+}
+
+#sidebar{
+   width: 15%;
+   float: Right;
+}
+
 #main_content{
     background:#f2f2f2;
-    height: min-content ;
     border: 1px solid #c3c3c3;
-    padding-top:40px
+    padding-top:10px;
+    margin-left: 15%;
+    height: 200px;
+    float: left
 } 
 
 #main_content img {
@@ -75,15 +89,18 @@ text-shadow:#111 0px 0px 10px}
 #aboutme{
     background:#f2f2f2;
     border: 1px solid #c3c3c3;
-    display: table;
     flex-wrap: wrap;
+    display: inline;
+}
+
+#aboutme img{
+    height: 100px;
     float:right;
     margin:5px
 }
 
-#aboutme img{
-    width: 120px;
-    height: 100px;
-    float:right;
-    margin:5px
+
+footer{
+  margin: auto;
+  padding: 40px;   
 }
