@@ -65,8 +65,7 @@ text-shadow:#111 0px 0px 10px}
     background:#f2f2f2;
     height: min-content ;
     border: 1px solid #c3c3c3;
-    padding-top:40px;
-    float:right
+    padding-top:40px
 } 
 
 #main_content img {
@@ -78,7 +77,7 @@ text-shadow:#111 0px 0px 10px}
     border: 1px solid #c3c3c3;
     display: table;
     flex-wrap: wrap;
-    float:left;
+    float:right;
     margin:5px
 }
 
