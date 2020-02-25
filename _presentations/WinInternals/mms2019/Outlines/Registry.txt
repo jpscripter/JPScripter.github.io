@@ -1,0 +1,95 @@
+Registry
+ 
+
+Why?
+
+ 
+
+Replaced the perfusion of ini files by creating a single central location for settings. This started happening in windows 3.1 to organize the COM configuration info.
+
+ 
+
+In win 95 and NT, the registry was expanded to centralize other settings
+
+ 
+
+For better performance, the registry was read into memory on boot. This allowed for applications to access
+
+ 
+
+Allows for permissions to be granularly delegated and give users access.
+
+ 
+
+Using standard Types (strings, dword, qword, etc)
+
+ 
+
+ 
+
+What is it?
+
+ 
+
+Terminology
+
+Root Key
+HKLM - Used to store system level settings and configurations.
+SOFTWARE - Application settings
+%Systemroot%\system32\config\Software
+SAM - Security Account manager
+%Systemroot%\system32\config\SAM
+SYSTEM - Protocol, services, Drivers
+%Systemroot%\system32\config\System
+ControlSet
+Current - generated for this current boot
+Set1 - Backups for recovery
+HARDWARE
+Generated on the fly
+SECURITY policies and stored secrets
+%Systemroot%\system32\config\Security
+ 
+
+HKCU -  User profile, application and environment settings
+%userprofile%\NTUser.dat - Kind of
+This is a session based alias for HKU.
+ 
+
+HKU - All user profiles loaded
+<SID> - The permanent mounting HKCU for all users
+%userprofile%\NTUser.dat
+
+<SID>_classes - HKCR Permanent mounting location
+DLL, File Extensions, Defaults
+%userprofile%\AppData\Local\Microsoft\Windows\usrclass.dat
+ 
+
+HKCR - Melding of the user and system settings
+User settings - HKEY_USERS\<SID>_Classes
+System settings - HKEY_LOCAL_MACHINE\SOFTWARE\Classes
+If there is the same key but different value, the user key wins.
+Contains
+COM object and other DLL registration (CLSID)
+APPX Registration
+File extension defaults
+Shell DLL defaults
+File icon paths.
+ 
+
+HKCC
+Loaded on startup
+Alias for HKLM\System\CurrentControlSet\HardWareProfiles\Current
+ 
+
+Hive - Files where the registry data is stored.
+Key - sub paths to different settings
+Values - the Values
+Do we want to talk about the different types of Values
+ 
+
+Practical
+
+Loading reg hives can prevent users from logging in
+Be careful with default user ntuser.dat
+There is a lot of interconnectedness
+ 

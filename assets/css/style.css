@@ -60,13 +60,16 @@ font-size:24px;
 font-weight:300;
 background:none;
 text-shadow:#111 0px 0px 10px} 
-
+#page{
+   padding-left:40px;
+}
 #main_content{
     background:#f2f2f2;
     height: min-content ;
     border: 1px solid #c3c3c3;
     padding-top:40px;
-    float:right
+    max-width:fit-content;
+    float:none
 } 
 
 #main_content img {
