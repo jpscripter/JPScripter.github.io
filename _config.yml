@@ -14,5 +14,4 @@ theme: jekyll-theme-slate
 collections:
   presentations:
     output: true
-    path: /presentations/
     title: Presentations
