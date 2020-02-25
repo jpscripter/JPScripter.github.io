@@ -1,10 +1,10 @@
 ---
-id: 1
+id: 8
 title: GIT for Beginners
 date: 2020-02-16T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
-guid: http://www.JPScripter.com/?p=1
+guid: http://www.JPScripter.com/?p=8
 permalink: /GitForBegninners/
 categories:
   - GIT
