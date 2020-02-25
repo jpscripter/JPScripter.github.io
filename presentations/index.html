@@ -4,24 +4,24 @@ title: Presentations
 background: '/img/bg-post.jpg'
 ---
 
-{% for post in site.posts %}
+{% for presentations in site.presentations %}
 
 <article class="post-preview">
-  <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-    <h2 class="post-title">{{ post.title }}</h2>
-    {% if post.subtitle %}
-    <h3 class="post-subtitle">{{ post.subtitle }}</h3>
+  <a href="{{ presentations.url | prepend: site.baseurl | replace: '//', '/' }}">
+    <h2 class="post-title">{{ presentations.title }}</h2>
+    {% if presentations.subtitle %}
+    <h3 class="post-subtitle">{{ presentations.subtitle }}</h3>
     {% else %}
-    <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
+    <h3 class="post-subtitle">{{ presentations.excerpt | strip_html | truncatewords: 15 }}</h3>
     {% endif %}
   </a>
   <p class="post-meta">Posted by
-    {% if post.author %}
-    {{ post.author }}
+    {% if presentations.author %}
+    {{ presentations.author }}
     {% else %}
     {{ site.author }}
     {% endif %}
-    on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
+    on {{ presentations.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=presentations.content %}
   </p>
 </article>
 
