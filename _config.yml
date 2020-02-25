@@ -10,3 +10,9 @@ github_username:  JPScripter
 show_downloads: false
 google_analytics: UA-140023239-1
 theme: jekyll-theme-slate
+
+collections:
+  presentations:
+    output: true
+    path: /presentations/
+    title: Presentations
