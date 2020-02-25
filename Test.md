@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Test
-permalink: /about/
+permalink: /Test/
 ---
 # Jeff Scripter
 
