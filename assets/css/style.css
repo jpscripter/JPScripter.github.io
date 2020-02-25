@@ -19,7 +19,7 @@ background:#212121;
 font-size:16px;
 font-family:'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
 line-height:1.5;
--webkit-font-smoothing:antialiased
+-webkit-font-smoothing:antialiased;
 }
 
 h1,h2,h3,h4,h5,h6{margin:10px 0;
@@ -32,7 +32,8 @@ h1{font-size:36px;
 font-weight:700}
 h2{padding-bottom:10px;
 font-size:32px;
-background:#f2f2f2
+background:#c4c4c4;   
+border: 1px solid #959595;
 }
 
 
@@ -60,16 +61,32 @@ font-size:24px;
 font-weight:300;
 background:none;
 text-shadow:#111 0px 0px 10px} 
+
 #page{
-   padding-left:40px;
+  width: 90%;
+  margin: auto;
+  margin-bottom: 120px;
+  overflow:hidden;
+  min-height: 400px;
 }
+
+#sidebar{
+   width: 160px;
+   float:right;
+   background:#f2f2f2;
+   border: 1px solid #c3c3c3;
+   margin-top:10px;
+   margin-left:5px
+}
+
 #main_content{
     background:#f2f2f2;
-    height: min-content ;
     border: 1px solid #c3c3c3;
-    padding-top:40px;
-    max-width:fit-content;
-    float:none
+    padding-top:10px;
+    margin: 10px;
+    float: left;
+    width:80%;
+    padding-bottom:10px;
 } 
 
 #main_content img {
@@ -77,17 +94,30 @@ text-shadow:#111 0px 0px 10px}
 }
 
 #aboutme{
-    background:#f2f2f2;
-    border: 1px solid #c3c3c3;
-    display: table;
     flex-wrap: wrap;
-    float:left;
-    margin:5px
+    display: inline;
 }
 
 #aboutme img{
-    width: 120px;
-    height: 100px;
-    float:right;
+    width: 140px;
+    float:Left;
+    margin-left:10;
     margin:5px
 }
+
+
+footer{
+    margin: auto; 
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height:130px;
+    background:#f2f2f2;
+    border: 1px solid #c3c3c3;
+    padding-top:10px;
+  }
+  footer span{
+    font-size:xx-small;
+    display:inline
+  }
