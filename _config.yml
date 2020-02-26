@@ -14,4 +14,17 @@ theme: jekyll-theme-slate
 collections:
   presentations:
     output: true
+    path: /presentations/
     title: Presentations
+
+collections:
+  modules:
+    output: true
+    path: /modules/
+    title: Modules
+
+collections:
+  modules:
+    output: true
+    path: /tools/
+    title: Tools
