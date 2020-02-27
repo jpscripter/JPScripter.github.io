@@ -12,4 +12,4 @@ categories:
 ---
 # MSI Module
 
-[MSI](https://github.com/jpscripter/Modules/MSI)
+[MSI](https://github.com/jpscripter/Modules/tree/master/MSI)
