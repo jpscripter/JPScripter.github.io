@@ -1,13 +1,14 @@
 ---
-id: 4
-title: Recursive CTE 4
-date: 2020-02-16T01:59:36+00:00
+id: 3
+title: MSI Com Object
+date: 2020-02-16T01:01:36+00:00
 author: Jeff Scripter
 layout: post
-guid: http://www.JPScripter.com/?p=4
-permalink: /RecursiveCTE4/
+guid: http://www.JPScripter.com/?p=3
+permalink: /MSIComObject/
 categories:
-  - SQL
+  - Com
+  - MSI
 ---
 ## What is a CTE?
 Common Table Expression is a shorthand for making a 

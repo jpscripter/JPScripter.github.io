@@ -5,27 +5,35 @@ permalink: /about/
 ---
 # Jeff Scripter
 
-## IT Work
 
-![Me in the Apls](/assets/images/Alps.jpg)
+## Speaking
 
-* 15 years in IT
-* 3 year MMS speaker
-* #BigBank
-
+* MMS MOA - 2018 
+* MMS MOA - 2019
+* MMS MOA - 2020
+* TCMSUG
+* Powershell Users group
 
 ## Hobbies
 
 ![Me and Mars](/assets/images/WithMars.jpg)
 
 * Home Renovations
-* Travel
+* Home Automation
+* Running
 * Mars - My goldendoodle  
 
-## Speaking
+## Traveling
 
-* MMS MOA - 2018
-* MMS MOA - 2019
-* MMS MOA - 2020
-* TCMSUG
-* Powershell Users group
+#### Switzerland and Italy (2019)
+![Me In The Apls](/assets/images/Alps.jpg)
+
+#### Hong Kong And Mainland China (2018)
+
+#### Hong Kong, Cambodia, Thailand, Myanmar (2016)
+
+#### Hong Kong (2015)
+
+#### South Korea (2013)
+
+#### Germany (2011)

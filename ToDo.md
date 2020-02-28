@@ -1,3 +1,3 @@
-* Update images 
-* about me
+Index 7
+
 * start blogging
