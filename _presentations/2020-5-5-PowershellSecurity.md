@@ -5,7 +5,7 @@ date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=13
-subtitle:Powershell techniques for securing your scripts.
+subtitle: Powershell techniques for securing your scripts.
 permalink: /presentations/PoshSecurity/
 categories:
   - Powershell
