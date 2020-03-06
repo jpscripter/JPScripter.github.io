@@ -28,9 +28,9 @@ Tired of waiting for PowerShell to iterate through all those items? Jobs limitat
 
 #### Presentation:
 
-   [High Performance Powershell Through The Magic Of Runspaces](/assets/presentations/HighPerformancePowershellThroughTheMagicOfRunspaces.pdf)
+   [High Performance Powershell Through The Magic Of Runspaces](/assets/presentations/TheWindowsHouseOfMirrors.pdf)
 
-   [Demo Code](/assets/presentations/HighPerformancePowershellThroughTheMagicOfRunspaces.zip)
+   [Demo Code](/assets/presentations/TheWindowsHouseOfMirrors.zip)
 
    #### License ([License](/assets/presentations/License))
 All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.
