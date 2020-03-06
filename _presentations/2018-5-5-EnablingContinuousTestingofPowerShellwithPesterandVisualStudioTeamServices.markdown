@@ -25,8 +25,10 @@ I don’t always test my code, but when I do, I do it in production… PowerShel
 ### CoPresentor:
 
 Christopher Mank
-[@cmank7](www.twitter.com/cmank7)
-[whiteficus.com](www.whiteficus.com)
+
+[@cmank7](https://www.twitter.com/cmank7)
+
+[whiteficus.com](https://www.whiteficus.com)
 
 #### Presentation:
 [Enabling Continuous Testing of PowerShell with Pester and Visual Studio Team Services](./DevopsPipeline/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices.pdf)
