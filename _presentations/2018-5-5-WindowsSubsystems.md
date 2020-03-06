@@ -1,11 +1,10 @@
 ---
-id: 7
+id: 10
 title: First Steps In Securing Your Scripts
-date: 2018-05-05T01:59:36+00:00
+date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
-guid: http://www.JPScripter.com/?p=7
-description: A crash course in powershell security covering beginner mistakes to encryption of secrets.
+guid: http://www.JPScripter.com/?p=10
 permalink: /presentations/FirstStepsInSecuringYourScripts/
 categories:
   - Powershell

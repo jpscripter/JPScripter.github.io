@@ -5,6 +5,7 @@ date: 2018-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=5
+description: How to install and use the PSScript analyzer. 
 permalink: /presentations/PowerShellScriptAnalyzerRules/
 categories:
   - Powershell
@@ -32,3 +33,5 @@ In this session we will show you how to create PS ScriptAnalyzer rules customize
 [PowerShell Script Analyzer Rules](/assets/presentations/PowerShellScriptAnalyzerRules.pdf)
 
 [PSScriptAnalyzer Module](https://www.powershellgallery.com/packages/PSScriptAnalyzer/)
+
+[Demos](https://github.com/fredbainbridge/CustomPSScriptAnalyzerRules)
