@@ -1,6 +1,6 @@
 ---
 id: 7
-title: FirstStepsInSecuringYourScripts
+title: First Steps In Securing Your Scripts
 date: 2018-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
@@ -25,10 +25,12 @@ Security through obscurity is only effective if no one is looking. This session 
 
 #### Tim Curwick
 
-[@@MadWPowerShell](https://www.twitter.com/@MadWPowerShell)
+[@MadWPowerShell](https://www.twitter.com/MadWPowerShell)
 
 [madwithpowershell.com/](https://www.madwithpowershell.com/)
 
 #### Presentation:
+
 [First Steps In Securing Your Scripts](/assets/presentations/FirstStepsInSecuringYourScripts.pdf)
+
 [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
