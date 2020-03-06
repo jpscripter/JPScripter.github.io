@@ -31,4 +31,4 @@ Christopher Mank
 [whiteficus.com](https://www.whiteficus.com)
 
 #### Presentation:
-[Enabling Continuous Testing of PowerShell with Pester and Visual Studio Team Services](./DevopsPipeline/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices.pdf)
+[Enabling Continuous Testing of PowerShell with Pester and Visual Studio Team Services](./EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices.pdf)
