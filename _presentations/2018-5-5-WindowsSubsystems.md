@@ -5,6 +5,7 @@ date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=10
+subtitle:
 permalink: /presentations/FirstStepsInSecuringYourScripts/
 categories:
   - Powershell

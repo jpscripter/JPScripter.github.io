@@ -5,7 +5,7 @@ date: 2018-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=7
-description: A crash course in powershell security covering beginner mistakes to encryption of secrets.
+subtitle: A crash course in powershell security covering beginner mistakes to encryption of secrets.
 permalink: /presentations/FirstStepsInSecuringYourScripts/
 categories:
   - Powershell

@@ -5,7 +5,7 @@ date: 2018-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=6
-description: Using Visual studio online to make a CICD pipeline with Pester test validation.
+subtitle: Using Visual studio online to make a CICD pipeline with Pester test validation.
 permalink: /presentations/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices/
 categories:
   - DevOps
