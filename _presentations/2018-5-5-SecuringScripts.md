@@ -34,5 +34,5 @@ Security through obscurity is only effective if no one is looking. This session 
 
    [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
 
-   #### License ([License](/assets/presentations/License))
+#### License ([License](/assets/presentations/License))
 All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.

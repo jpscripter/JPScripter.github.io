@@ -26,14 +26,12 @@ I don’t always test my code, but when I do, I do it in production… PowerShel
 
 ### CoPresentor:
 
-#### Christopher Mank
-
-[@cmank7](https://www.twitter.com/cmank7)
+#### Christopher Mank ([@cmank7](https://www.twitter.com/cmank7))
 
 [whiteficus.com](https://www.whiteficus.com)
 
 #### Presentation:
 [Enabling Continuous Testing of PowerShell with Pester and Visual Studio Team Services](/assets/presentations/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices.pdf)
 
-   #### License ([License](/assets/presentations/License))
+#### License ([License](/assets/presentations/License))
 All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.

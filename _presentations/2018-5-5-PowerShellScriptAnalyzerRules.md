@@ -37,5 +37,5 @@ In this session we will show you how to create PS ScriptAnalyzer rules customize
 
 [Demos](https://github.com/fredbainbridge/CustomPSScriptAnalyzerRules)
 
-   #### License ([License](/assets/presentations/License))
+#### License ([License](/assets/presentations/License))
 All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.

@@ -24,10 +24,10 @@ In this broad-ranging talk we'll wander through the circus of lesser known windo
 
 ### CoPresentor:
 
-   #### Shaun Cassells ([@cassells](https://www.twitter.com/cassells))
+#### Shaun Cassells ([@cassells](https://www.twitter.com/cassells))
 [shauncassells.com](https://shauncassells.com)
 
-   #### Stephen Owen ([@FoxDeploy](https://www.twitter.com/FoxDeploy))
+#### Stephen Owen ([@FoxDeploy](https://www.twitter.com/FoxDeploy))
 [foxdeploy.com](https://www.foxdeploy.com)
 
 #### Presentation:
@@ -36,5 +36,5 @@ In this broad-ranging talk we'll wander through the circus of lesser known windo
 
    [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
 
-   #### License ([License](/assets/presentations/License))
+#### License ([License](/assets/presentations/License))
 All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.
