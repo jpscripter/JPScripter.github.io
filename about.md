@@ -6,7 +6,7 @@ permalink: /about/
 ## Jeff Scripter
 
 
-### Speaking
+### [Speaking](https://JPScripter.com/presentations)
 
 * MMS MOA - 2018 
 * MMS MOA - 2019
