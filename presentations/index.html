@@ -4,7 +4,8 @@ title: Presentations
 background: '/img/bg-post.jpg'
 ---
 
-{% for post in site.presentations | reversed %}
+{% assign presentations = site.presentations | sort: 'date' | reverse %}
+{% for post in presentations %}
 
 <article class="post-preview">
   <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
