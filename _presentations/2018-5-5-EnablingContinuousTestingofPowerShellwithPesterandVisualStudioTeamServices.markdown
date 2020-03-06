@@ -1,7 +1,7 @@
 ---
 id: 6
 title: Enabling Continuous Testing of PowerShell with Pester and Visual Studio Team Services
-date: 2020-03-05T01:59:36+00:00
+date: 2018-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=6
