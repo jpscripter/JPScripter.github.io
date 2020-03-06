@@ -3,66 +3,9 @@
 <hr>
 
 <footer>
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-md-10 mx-auto">
-        <ul class="list-inline text-center">
-          {% if site.email %}
-          <li class="list-inline-item">
-            <a href="mailto:{{ site.email | encode_email }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.twitter_username %}
-          <li class="list-inline-item">
-            <a href="https://twitter.com/{{ site.twitter_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.facebook_username %}
-          <li class="list-inline-item">
-            <a href="https://www.facebook.com/{{ site.facebook_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.linkedin_username %}
-          <li class="list-inline-item">
-            <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-linkedin fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-          {% if site.github_username %}
-          <li class="list-inline-item">
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="fa-stack fa-lg">
-                <i class="fas fa-circle fa-stack-2x"></i>
-                <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-              </span>
-            </a>
-          </li>
-          {% endif %}
-        </ul>
-        <p class="copyright text-center text-muted" style="font-size: small;">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
-      </div>
-    </div>
-  </div>
+  <p class="copyright text-center text-muted" style="font-size: small;">Copyright &copy; {{ site.author }} {{ 'now' | date: "%Y" }}</p>
   <span style="font-size: x-small;">
-    Disclaimer: The views and opinions expressed in this blog are those of the author and do not necessarily reflect the official policy or position of my Employer.
+    Disclaimer: The views and opinions expressed in this blog are those of the author and do not necessarily reflect the official policy or position of my Employer. All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.
 </span>
+<a href="/assets/presentations/License">License</a>
 </footer>

@@ -34,5 +34,4 @@ Wait wait! Let me guess. Your largest hurdle in your Window 10 upgrade is your a
 
 -->
 
-#### License ([License](/assets/presentations/License))
-All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.
+
