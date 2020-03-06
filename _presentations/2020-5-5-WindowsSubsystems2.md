@@ -1,12 +1,12 @@
 ---
 id: 14
-title: The Windows House Of Mirrors
+title: Windows Sub-systems: an Explorer's Guide
 date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=14
 subtitle:
-permalink: /presentations/TheWindowsHouseOfMirrors/
+permalink: /presentations/WindowsSubsystemsAnExplorersGuide/
 categories:
   - Windows10
   - MMS2020
@@ -32,10 +32,10 @@ Adventure with us as we strive to make your life easier by venturing into an exp
 <!--
 #### Presentation:
 
-   [The Windows House Of Mirrors](/assets/presentations/TheWindowsHouseOfMirrors.pdf)
+   [The Windows House Of Mirrors](/assets/presentations/WindowsSubsystemsAnExplorersGuide.pdf)
 
-   [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
-   -->
+   [Demo Code](/assets/presentations/WindowsSubsystemsAnExplorersGuide.zip)
+-->
 
 #### License ([License](/assets/presentations/License))
 All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.
