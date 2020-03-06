@@ -5,7 +5,7 @@ date: 2020-03-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=6
-permalink: /EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices/
+permalink: /presentations/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices/
 categories:
   - DevOps
 ---
