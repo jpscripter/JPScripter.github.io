@@ -106,7 +106,8 @@ text-shadow:#111 0px 0px 10px}
 }
 
 #contact div{
-  width:140px;
+  width: auto;
+  position:center;
   margin: 0px;
   
 }
