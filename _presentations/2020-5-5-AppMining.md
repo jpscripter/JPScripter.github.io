@@ -1,6 +1,6 @@
 ---
 id: 12
-title:App Mining: Data Mining your applications
+title: App Mining Data Mining your applications
 date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations

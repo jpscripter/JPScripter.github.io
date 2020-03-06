@@ -1,6 +1,6 @@
 ---
 id: 14
-title: Windows Sub-systems: an Explorer's Guide
+title: Windows Sub-systems an Explorer's Guide
 date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations

@@ -1,7 +1,7 @@
 ---
 id: 13
 title: First Steps For Securing Your Scripts 
-date: 2019-05-05T01:59:36+00:00
+date: 2020-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
 guid: http://www.JPScripter.com/?p=13
