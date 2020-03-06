@@ -105,6 +105,17 @@ text-shadow:#111 0px 0px 10px}
     margin:5px
 }
 
+#contact div{
+  width:140px;
+  margin: 0px;
+  
+}
+
+#contact span{
+  width:70px;
+  margin:auto;
+  margin-top:5px
+}
 
 footer{
     margin: auto; 
