@@ -17,14 +17,12 @@ collections:
     path: /presentations/
     title: Presentations
 
-collections:
   modules:
     output: true
     path: /modules/
     title: Modules
 
-collections:
-  modules:
+  tools:
     output: true
     path: /tools/
     title: Tools
