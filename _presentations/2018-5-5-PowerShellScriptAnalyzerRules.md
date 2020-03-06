@@ -9,6 +9,7 @@ subtitle: How to install and use the PSScript analyzer.
 permalink: /presentations/PowerShellScriptAnalyzerRules/
 categories:
   - Powershell
+  - MMS2018
 ---
 
 ### Description:
@@ -35,3 +36,6 @@ In this session we will show you how to create PS ScriptAnalyzer rules customize
 [PSScriptAnalyzer Module](https://www.powershellgallery.com/packages/PSScriptAnalyzer/)
 
 [Demos](https://github.com/fredbainbridge/CustomPSScriptAnalyzerRules)
+
+   #### License ([License](/assets/presentations/License))
+All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.

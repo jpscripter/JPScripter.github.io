@@ -10,6 +10,7 @@ permalink: /presentations/FirstStepsInSecuringYourScripts/
 categories:
   - Powershell
   - Security
+  - MMS2018
 ---
 
 
@@ -32,3 +33,6 @@ Security through obscurity is only effective if no one is looking. This session 
    [First Steps In Securing Your Scripts](/assets/presentations/FirstStepsInSecuringYourScripts.pdf)
 
    [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
+
+   #### License ([License](/assets/presentations/License))
+All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.

@@ -9,6 +9,7 @@ subtitle: Using Visual studio online to make a CICD pipeline with Pester test va
 permalink: /presentations/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices/
 categories:
   - DevOps
+  - MMS2018
 ---
 
 
@@ -33,3 +34,6 @@ I don’t always test my code, but when I do, I do it in production… PowerShel
 
 #### Presentation:
 [Enabling Continuous Testing of PowerShell with Pester and Visual Studio Team Services](/assets/presentations/EnablingContinuousTestingofPowerShellwithPesterandVisualStudioTeamServices.pdf)
+
+   #### License ([License](/assets/presentations/License))
+All Code and work is open sourced under the above license. Please use and share, but credit me and my peers for our work.
