@@ -1,33 +1,33 @@
 ---
-id: 5
-title: GIT for Beginners
-date: 2020-02-16T01:59:36+00:00
+id: 8
+title: First Steps In Securing Your Scripts
+date: 2019-05-05T01:59:36+00:00
 author: Jeff Scripter
 layout: presentations
-guid: http://www.JPScripter.com/?p=5
-permalink: /GitForBegninners/
+guid: http://www.JPScripter.com/?p=8
+permalink: /presentations/FirstStepsInSecuringYourScripts/
 categories:
-  - GIT
+  - Powershell
+  - Security
 ---
 
-1) Why you need to source control you scripts!
-   - List the benefits of source control in general
-1) Why Git?
-  - Basically because it is the most widely used Version control system
-  - Future of Azure devops and github
-1) Getting started (In Various tools) (github and repos)
-   - Repositories making a repo
-   - Basic commands clone/ commit/ reset
-   - Pull requests 
-1) How Git works
-   - What is in the git folder
-1) Advanced git
-   - Merges/ conflicts
-   - rebase
-   - .gitignore
-   - fork
-1) Best Practices
-   - Size of repository, branch, commit
-   - code progression?
-1) What Next?
-  - Build and deploy
+
+### Description:
+
+Security through obscurity is only effective if no one is looking. This session will touch on the complicated world of IT security, secure coding best practices and provide resources for more advanced data security with a focus on PowerShell. We'll show with a few steps, we can eliminate the low hanging fruit that can compromise our organizations.
+
+### What you will learn:
+* Identify key pitfalls that everyone should be avoiding.
+* An overview of PowerShell security settings and when to use them.
+* Examples of how to leverage the .net stack to encrypt data.
+
+### CoPresentor:
+
+   #### Tim Curwick ([@MadWPowerShell](https://www.twitter.com/MadWPowerShell))
+[madwithpowershell.com](https://www.madwithpowershell.com/)
+
+#### Presentation:
+
+   [First Steps In Securing Your Scripts](/assets/presentations/FirstStepsInSecuringYourScripts.pdf)
+
+   [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)

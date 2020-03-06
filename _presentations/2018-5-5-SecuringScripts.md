@@ -23,14 +23,11 @@ Security through obscurity is only effective if no one is looking. This session 
 
 ### CoPresentor:
 
-#### Tim Curwick
-
-[@MadWPowerShell](https://www.twitter.com/MadWPowerShell)
-
-[madwithpowershell.com/](https://www.madwithpowershell.com/)
+   #### Tim Curwick ([@MadWPowerShell](https://www.twitter.com/MadWPowerShell))
+[madwithpowershell.com](https://www.madwithpowershell.com/)
 
 #### Presentation:
 
-[First Steps In Securing Your Scripts](/assets/presentations/FirstStepsInSecuringYourScripts.pdf)
+   [First Steps In Securing Your Scripts](/assets/presentations/FirstStepsInSecuringYourScripts.pdf)
 
-[Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
+   [Demo Code](/assets/presentations/FirstStepsInSecuringYourScripts.zip)
