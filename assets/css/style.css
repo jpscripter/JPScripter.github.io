@@ -47,7 +47,7 @@ margin:0 auto}
 
 
 #header_wrap{
-  height: 100px max-content;
+  height: 120px;
   background:linear-gradient(to top, #373737, #5c5c5c)
   }
 
@@ -113,17 +113,13 @@ text-shadow:#656565 0px 0px 1px}
 }
 
 #contact ul{
- margin-left:-25px;
- width:150px;
- position:0px;
  float:left
-
 }
 
 #contact li{
-  width:fit-content;
+  width:35px;
   position:sticky;
-  margin-left:-20px;
+
   }
 
 #contact .last{
