@@ -13,13 +13,17 @@ permalink: /resume/
 
 ## Work History
 
-### Application Systems Enginer (July 2018 - Present)
+### Application Systems Engineer (Wells Fargo) (July 2018 - Present)
 
-* Collaberated with and Automation the Windows as a Service (WaaS) Process for one of the world's largest banks. 
+* Collaborated with and Automation the Windows as a Service (WaaS) Process for one of the world's largest banks. 
 
-* Write a powershell module that would allow for impersonation and credential management of Group Managed Service Accounts by retrieving the password and creating credential objects. This enabled the use of GMSA accounts where they are not natively supported such as Service Manager Autmation (SMA).
+* Write a powershell module that would allow for impersonation and credential management of Group Managed Service Accounts by retrieving the password and creating credential objects. This enabled the use of GMSA accounts where they are not natively supported such as Service Manager Automation (SMA).
 
-* Created an application that would data mine several data sources and 
+* Wave planning and coordination
+
+* wave tooling blazor, self-service, centralize data
+
+* Team member mentoring, peer programming, and 
 
 
 ### Contractor / SCCM Architect / Automation Engineer (TEK Systems) (July 2015 - July 2018)
@@ -68,6 +72,5 @@ Automated sync between several processes between SCCM and service now using Powe
 
 * MMS MOA - 2018 (First Steps)
 * MMS MOA - 2019
-* MMS MOA - 2020
-* TCMSUG
-* Power
+* TCMSUG - 2021
+* Powershell usergroup 2018
