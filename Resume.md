@@ -10,10 +10,22 @@ permalink: /resume/
 * Interested in innovating, automating and collaborating with others in order to create creative and value improving solutions in a timely fashion with or without pressure of time constraints. 
 * Buzzword Enthusiast! 
 
+## Skill-sets
+
+### Programming languages
+* C# (MVC, Blazor, Entity Framework)
+* Powershell
+* SQL
+* VBScript
+* Batch
+* Diskpart
+
+
+### InterP
 
 ## Work History
 
-### Application Systems Engineer (Wells Fargo) (July 2018 - Present)
+### Application Systems Engineer (Wells Fargo) (July 2017 - Present)
 
 * Collaborated with and Automation the Windows as a Service (WaaS) Process for one of the world's largest banks. 
 
@@ -23,10 +35,12 @@ permalink: /resume/
 
 * wave tooling blazor, self-service, centralize data
 
-* Team member mentoring, peer programming, and 
+* Team member mentoring, peer programming, and troubleshooting peer
+
+* 
 
 
-### Contractor / SCCM Architect / Automation Engineer (TEK Systems) (July 2015 - July 2018)
+### Contractor / SCCM Architect / Automation Engineer (TEK Systems) (July 2015 - July 2017)
 
 * Wrote an automated application testing platform to expedite the testing of packaged applications on windows 10. It also collected information such as install metrics, system changes, screenshots/metrics from each shortcut which helped to give more information about compatibility. 
 
@@ -65,7 +79,6 @@ Automated sync between several processes between SCCM and service now using Powe
 * Wrote custom Powershell script to import third party patches and packages into WSUS and ConfigMgr to simplify the process for patching and distributing software saving the organization $200k per year in licensing. 
 
 * Created script that would install each package and capture system changes and create a list of software titles and attributes that are associated with BSC software packages.  This was used to assess the LOE of removing the end users ability to install software not delivered via a EDS.
-
 
 
 ## Speaking
