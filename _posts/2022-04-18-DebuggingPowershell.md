@@ -102,7 +102,8 @@ Set-PSDebug -off
 
 ## Configuring VSCode
 
-1) Install OmniSharp and other dependencies  
+1) Install OmniSharp and other dependencies 
+
 1) Create launch.json file -> Powershell -> Current File
 
 ```powershell
@@ -142,3 +143,24 @@ Get-PSBreakpoint| Remove-PSBreakpoint
 
 1) Interactive warning
     Set-PSBreakpoint -Variable 'Counter' -Action {Write-Warning -Message "Counter = $Counter"}
+
+```powershell
+
+# Easy Try Catch Demo
+$Scriptblock = {
+    $Variable = 'test'
+    try{
+        Write-Error "testError" -Erroraction Stop
+    }Catch{
+        Wait-Debugger
+    }
+    Start-UDFSleep 
+}
+invoke-command $Scriptblock 
+
+# Conditional Trigger
+Set-PSBreakpoint -Variable 'Counter' -Action {if($Counter -eq 5){Wait-Debugger}} 
+$Counter = 2
+$Counter = 5
+
+```

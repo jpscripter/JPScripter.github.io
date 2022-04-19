@@ -22,7 +22,7 @@ And impersonation token is used only for setting impersonation and used as alter
 ## Why use Impersonation 
 Impersonation can help you get around commands that do not natively have credential options such as SQL. It can also let you use a NetOnly credential and work cross domain with far less hassle. 
 
-# How do I get started working with tokens and Impersonation
+## How do I get started working with tokens and Impersonation
 
 Good news! I have a powershell module that I hope simplifies this:
 
