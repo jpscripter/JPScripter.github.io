@@ -10,7 +10,7 @@ permalink: /about/
 
 * MMS MOA - 2018 
 * MMS MOA - 2019
-* MMS MOA - 2020
+* MMS MOA - 2022
 * TCMSUG
 * Powershell Users group
 
